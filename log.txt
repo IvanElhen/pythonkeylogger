@@ -1,0 +1,8 @@
+--- Log created at: 21:14:50 09/04/2022 --- 
+ starting keylogger...
+
+----------
+Key.esc
+
+ -----------[File Saved at 21:15:27 09/04/2022]-----------
+
